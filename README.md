@@ -148,7 +148,7 @@ An interactive Power BI dashboard was created to visualize the results of the an
 - Subscription Insights
 - Discount Analysis
 
-  ![Image alt](https://github.com/GaganBP/Customer_behaviour_analysis/blob/8c0db725c21f9bb60e2a747156ee1a7f6de064fb/customer%20dashboard.png)
+  ![Image alt](https://github.com/GaganBP/Customer_behaviour_analysis/blob/5f5e9382999967ec909c0988996bc073c3dd068d/customer%20dashboard.png)
 
 ---
 
