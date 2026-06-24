@@ -135,7 +135,7 @@ Business-focused SQL queries were executed in PostgreSQL to answer key analytica
 
 ---
 
-### 4. Power BI Dashboard [Link](https://app.fabric.microsoft.com/view?r=eyJrIjoiM2E5ZDgwYWMtMjA0MS00YjhlLTgwOWItYWE1ZDViYWVlMTU2IiwidCI6IjY3OWY5YTYyLTIwODQtNGI0Yy1iNzk2LWI1NGFkZTM5ZmUxYiJ9)
+### 4. Power BI Dashboard [Dashboard_Link](https://app.fabric.microsoft.com/view?r=eyJrIjoiM2E5ZDgwYWMtMjA0MS00YjhlLTgwOWItYWE1ZDViYWVlMTU2IiwidCI6IjY3OWY5YTYyLTIwODQtNGI0Yy1iNzk2LWI1NGFkZTM5ZmUxYiJ9)
 
 An interactive Power BI dashboard was created to visualize the results of the analysis.
 
